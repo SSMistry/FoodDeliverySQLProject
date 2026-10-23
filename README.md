@@ -20,6 +20,6 @@ The project uses a food delivery dataset containing customers, restaurants, menu
 ---
 
 ## Project Structure
-/data contains the datasets
-/results contains the returned query outputs
-/sql contains the query files and the problem statements
+- /data contains the datasets
+- /results contains the returned query outputs
+- /sql contains the query files and the problem statements
