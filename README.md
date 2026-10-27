@@ -12,14 +12,16 @@ The aim was to practise core SQL skills used in data-focussed roles, including:
 - Revenue and trend analysis
 
 The project uses a food delivery dataset containing customers, restaurants, menu items, orders and order-item data.
+
 ---
-## Tools Used
+
+### Tools Used
 - **DB Browser for SQLite**
 - **SQL**
 - **GitHub**
 ---
 
-## Project Structure
+### Project Structure
 - /data contains the datasets
 - /results contains the returned query outputs
 - /sql contains the query files and the problem statements
